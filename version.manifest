@@ -1,0 +1,7 @@
+{
+  "packageUrl": "http://45.76.154.110/updateGame/", 
+  "version": "6", 
+  "searchPaths": [], 
+  "remoteVersionUrl": "http:/45.76.154.110/version.manifest", 
+  "remoteManifestUrl": "http://45.76.154.110/project.manifest"
+}
