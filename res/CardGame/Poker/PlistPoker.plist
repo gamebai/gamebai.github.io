@@ -4,494 +4,384 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>res/CardGame/Poker/0nuocLieng.png</key>
+			<key>res/CardGame/Poker/allInIcon.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{164,637},{117,40}}</string>
+				<string>{{559,948},{73,20}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{117,40}</string>
-			</dict>
-			<key>res/CardGame/Poker/allInIcon.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{647,491},{64,24}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{64,24}</string>
+				<string>{73,20}</string>
 			</dict>
 			<key>res/CardGame/Poker/bangThongBao.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{543,174},{383,59}}</string>
+				<string>{{1,632},{383,59}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false />
 				<key>sourceSize</key>
 				<string>{383,59}</string>
 			</dict>
 			<key>res/CardGame/Poker/betAmount.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{96,589},{114,46}}</string>
+				<string>{{934,409},{117,36}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<true />
 				<key>sourceSize</key>
-				<string>{114,46}</string>
+				<string>{117,36}</string>
 			</dict>
 			<key>res/CardGame/Poker/bgBack.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{647,557},{341,54}}</string>
+				<string>{{568,974},{263,44}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{341,54}</string>
+				<string>{263,44}</string>
 			</dict>
 			<key>res/CardGame/Poker/bgHong.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{604,174},{479,41}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{479,41}</string>
-			</dict>
-			<key>res/CardGame/Poker/bglatBai.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{1,1},{477,321}}</string>
+				<string>{{1,920},{479,41}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{477,321}</string>
+				<string>{479,41}</string>
 			</dict>
 			<key>res/CardGame/Poker/bgThanhKeo.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{673,1},{498,61}}</string>
+				<string>{{1,974},{565,44}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false />
 				<key>sourceSize</key>
-				<string>{498,61}</string>
+				<string>{565,44}</string>
 			</dict>
 			<key>res/CardGame/Poker/bigBlindIcon.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{507,995},{26,26}}</string>
+				<string>{{512,877},{38,38}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{26,26}</string>
-			</dict>
-			<key>res/CardGame/Poker/btnBuyInMinus.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{925,754},{28,27}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{28,27}</string>
+				<string>{38,38}</string>
 			</dict>
 			<key>res/CardGame/Poker/btnBuyInOk.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{937,286},{228,67}}</string>
+				<string>{{912,731},{187,57}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<true />
 				<key>sourceSize</key>
-				<string>{228,67}</string>
-			</dict>
-			<key>res/CardGame/Poker/btnBuyInPlus.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{507,966},{27,27}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{27,27}</string>
-			</dict>
-			<key>res/CardGame/Poker/btnCloseLatBai.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{152,747},{56,57}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{56,57}</string>
+				<string>{187,57}</string>
 			</dict>
 			<key>res/CardGame/Poker/btnDongY.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{441,674},{175,87}}</string>
+				<string>{{413,719},{187,57}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false />
 				<key>sourceSize</key>
-				<string>{175,87}</string>
+				<string>{187,57}</string>
 			</dict>
 			<key>res/CardGame/Poker/btnLatBai.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{69,637},{93,35}}</string>
+				<string>{{727,693},{92,36}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<true />
 				<key>sourceSize</key>
-				<string>{93,35}</string>
+				<string>{92,36}</string>
 			</dict>
 			<key>res/CardGame/Poker/btnleftBoBai.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{736,262},{148,106}}</string>
+				<string>{{443,297},{139,97}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{148,106}</string>
+				<string>{139,97}</string>
 			</dict>
 			<key>res/CardGame/Poker/btnLeftBoBaiLight.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{709,651},{148,106}}</string>
+				<string>{{443,396},{139,97}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<true />
 				<key>sourceSize</key>
-				<string>{148,106}</string>
+				<string>{139,97}</string>
 			</dict>
 			<key>res/CardGame/Poker/btnLeftDisable.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{817,651},{148,106}}</string>
+				<string>{{660,787},{140,97}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<true />
 				<key>sourceSize</key>
-				<string>{148,106}</string>
+				<string>{140,97}</string>
 			</dict>
 			<key>res/CardGame/Poker/btnLeftLight.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,674},{148,106}}</string>
+				<string>{{759,847},{140,97}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false />
 				<key>sourceSize</key>
-				<string>{148,106}</string>
+				<string>{140,97}</string>
 			</dict>
 			<key>res/CardGame/Poker/btnLeftNormal.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,824},{148,106}}</string>
+				<string>{{413,778},{140,97}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<true />
 				<key>sourceSize</key>
-				<string>{148,106}</string>
+				<string>{140,97}</string>
 			</dict>
 			<key>res/CardGame/Poker/btnMinus.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{109,736},{41,49}}</string>
+				<string>{{901,920},{42,41}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<true />
 				<key>sourceSize</key>
-				<string>{41,49}</string>
+				<string>{42,41}</string>
 			</dict>
 			<key>res/CardGame/Poker/btnPlus.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{937,516},{45,39}}</string>
+				<string>{{660,929},{42,41}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<true />
 				<key>sourceSize</key>
-				<string>{45,39}</string>
+				<string>{42,41}</string>
 			</dict>
 			<key>res/CardGame/Poker/btnRightDisable.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{851,957},{93,59}}</string>
+				<string>{{607,571},{100,54}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{93,59}</string>
+				<string>{100,54}</string>
 			</dict>
 			<key>res/CardGame/Poker/btnRightLight.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,541},{93,58}}</string>
+				<string>{{602,719},{100,54}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{93,58}</string>
-			</dict>
-			<key>res/CardGame/Poker/btnRightNoramal.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{439,851},{113,92}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{113,92}</string>
+				<string>{100,54}</string>
 			</dict>
 			<key>res/CardGame/Poker/btnRightNormal.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,480},{93,59}}</string>
+				<string>{{602,775},{100,54}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<true />
 				<key>sourceSize</key>
-				<string>{93,59}</string>
+				<string>{100,54}</string>
 			</dict>
 			<key>res/CardGame/Poker/buttonHightlight.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{291,674},{148,106}}</string>
+				<string>{{443,198},{140,97}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{148,106}</string>
-			</dict>
-			<key>res/CardGame/Poker/buyIn12.jpg</key>
-			<dict>
-				<key>frame</key>
-				<string>{{480,174},{498,61}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{498,61}</string>
-			</dict>
-			<key>res/CardGame/Poker/buyInDauKeo.jpg</key>
-			<dict>
-				<key>frame</key>
-				<string>{{1,601},{66,66}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{66,66}</string>
+				<string>{140,97}</string>
 			</dict>
 			<key>res/CardGame/Poker/buyInOtrong.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{109,805},{55,55}}</string>
+				<string>{{970,974},{44,44}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{55,55}</string>
+				<string>{44,44}</string>
 			</dict>
 			<key>res/CardGame/Poker/buyInTick.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{109,674},{60,47}}</string>
+				<string>{{703,929},{39,41}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false />
 				<key>sourceSize</key>
-				<string>{60,47}</string>
+				<string>{39,41}</string>
 			</dict>
 			<key>res/CardGame/Poker/callIcon.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{946,957},{64,24}}</string>
+				<string>{{585,920},{73,20}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false />
 				<key>sourceSize</key>
-				<string>{64,24}</string>
+				<string>{73,20}</string>
 			</dict>
 			<key>res/CardGame/Poker/chienthang-23.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{291,782},{178,80}}</string>
+				<string>{{833,974},{135,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{135,37}</string>
+			</dict>
+			<key>res/CardGame/Poker/close_scroll.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{866,332},{60,61}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<true />
 				<key>sourceSize</key>
-				<string>{178,80}</string>
-			</dict>
-			<key>res/CardGame/Poker/clickButtonPress.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{80,380},{23,28}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{23,28}</string>
-			</dict>
-			<key>res/CardGame/Poker/closeBuyIn.jpg</key>
-			<dict>
-				<key>frame</key>
-				<string>{{1,324},{77,76}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{77,76}</string>
-			</dict>
-			<key>res/CardGame/Poker/closeBuyIn.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{1,402},{77,76}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{77,76}</string>
-			</dict>
-			<key>res/CardGame/Poker/dauBgHong.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{925,651},{24,42}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{24,42}</string>
+				<string>{60,61}</string>
 			</dict>
 			<key>res/CardGame/Poker/dauKeo.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{158,679},{66,66}}</string>
+				<string>{{512,778},{79,78}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{66,66}</string>
+				<string>{79,78}</string>
 			</dict>
 			<key>res/CardGame/Poker/dealerchuan.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{587,655},{120,186}}</string>
+				<string>{{782,409},{133,150}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<true />
 				<key>sourceSize</key>
-				<string>{120,186}</string>
+				<string>{133,150}</string>
 			</dict>
 			<key>res/CardGame/Poker/dealerIcon.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{80,324},{26,26}}</string>
+				<string>{{592,877},{34,34}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{26,26}</string>
+				<string>{34,34}</string>
 			</dict>
 			<key>res/CardGame/Poker/diemAnh.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{673,501},{262,54}}</string>
+				<string>{{386,632},{382,59}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{262,54}</string>
+				<string>{382,59}</string>
 			</dict>
 			<key>res/CardGame/Poker/diemChin.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{109,324},{263,53}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{263,53}</string>
-			</dict>
-			<key>res/CardGame/Poker/diemLieng.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{960,651},{262,54}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{262,54}</string>
-			</dict>
-			<key>res/CardGame/Poker/diemSap.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{587,957},{262,54}}</string>
+				<string>{{1,792},{382,59}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{262,54}</string>
+				<string>{382,59}</string>
+			</dict>
+			<key>res/CardGame/Poker/diemLieng.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,853},{382,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{382,59}</string>
+			</dict>
+			<key>res/CardGame/Poker/diemSap.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{643,187},{382,137}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{382,137}</string>
+			</dict>
+			<key>res/CardGame/Poker/khungavatar_poker.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{643,1},{341,184}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{341,184}</string>
 			</dict>
 			<key>res/CardGame/Poker/logoLieng.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{736,146},{114,145}}</string>
+				<string>{{765,731},{114,145}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -502,7 +392,7 @@
 			<key>res/CardGame/Poker/logoPoker.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{480,1},{191,171}}</string>
+				<string>{{782,558},{191,171}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -513,7 +403,7 @@
 			<key>res/CardGame/Poker/logoVinPlay.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{736,1},{150,143}}</string>
+				<string>{{782,187},{150,143}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -521,269 +411,203 @@
 				<key>sourceSize</key>
 				<string>{150,143}</string>
 			</dict>
-			<key>res/CardGame/Poker/omBai.png</key>
+			<key>res/CardGame/Poker/nen_mau_thau.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{373,782},{219,64}}</string>
+				<string>{{1,731},{410,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{410,59}</string>
+			</dict>
+			<key>res/CardGame/Poker/nen_sam_co.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,198},{379,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{379,59}</string>
+			</dict>
+			<key>res/CardGame/Poker/nen_sanh.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{382,198},{371,59}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<true />
 				<key>sourceSize</key>
-				<string>{219,64}</string>
+				<string>{371,59}</string>
+			</dict>
+			<key>res/CardGame/Poker/nen_thung_pha_sanh.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{640,195}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{640,195}</string>
+			</dict>
+			<key>res/CardGame/Poker/nen_tu_quy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,571},{410,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{410,59}</string>
+			</dict>
+			<key>res/CardGame/Poker/omBai.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{413,571},{192,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{192,57}</string>
 			</dict>
 			<key>res/CardGame/Poker/poker112016-04.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{990,1},{283,32}}</string>
+				<string>{{934,187},{220,36}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<true />
 				<key>sourceSize</key>
-				<string>{283,32}</string>
-			</dict>
-			<key>res/CardGame/Poker/poker112016-05.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{990,516},{95,32}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{95,32}</string>
+				<string>{220,36}</string>
 			</dict>
 			<key>res/CardGame/Poker/poker112016-07.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{166,805},{44,42}}</string>
+				<string>{{709,571},{44,44}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{44,42}</string>
-			</dict>
-			<key>res/CardGame/Poker/poker112016-09.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{647,613},{360,36}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{360,36}</string>
-			</dict>
-			<key>res/CardGame/Poker/poker112016-16.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{888,1},{384,46}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{384,46}</string>
-			</dict>
-			<key>res/CardGame/Poker/poker112016-27.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{226,679},{62,59}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{62,59}</string>
-			</dict>
-			<key>res/CardGame/Poker/poker112016-28.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{936,1},{275,47}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{275,47}</string>
-			</dict>
-			<key>res/CardGame/Poker/poker112016-29.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{709,801},{174,39}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{174,39}</string>
-			</dict>
-			<key>res/CardGame/Poker/poker112016-34.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{80,410},{23,24}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{23,24}</string>
-			</dict>
-			<key>res/CardGame/Poker/poker112016-40.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{1,974},{288,42}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{288,42}</string>
-			</dict>
-			<key>res/CardGame/Poker/poker112016-44.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{226,740},{65,54}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{65,54}</string>
-			</dict>
-			<key>res/CardGame/Poker/poker112016-47.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{925,695},{28,30}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{28,30}</string>
-			</dict>
-			<key>res/CardGame/Poker/poker112016-48.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{925,725},{27,30}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{27,30}</string>
+				<string>{44,44}</string>
 			</dict>
 			<key>res/CardGame/Poker/raiseIcon.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{885,801},{64,24}}</string>
+				<string>{{482,948},{75,22}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{64,24}</string>
-			</dict>
-			<key>res/CardGame/Poker/showCard.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{736,387},{190,97}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{190,97}</string>
+				<string>{75,22}</string>
 			</dict>
 			<key>res/CardGame/Poker/sitDown.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{291,962},{66,56}}</string>
+				<string>{{782,332},{82,71}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{66,56}</string>
+				<string>{82,71}</string>
 			</dict>
 			<key>res/CardGame/Poker/smallBlindIcon.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{80,352},{26,26}}</string>
+				<string>{{552,858},{38,38}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{26,26}</string>
+				<string>{38,38}</string>
 			</dict>
 			<key>res/CardGame/Poker/standUp.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{439,966},{66,56}}</string>
+				<string>{{542,396},{82,71}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{66,56}</string>
+				<string>{82,71}</string>
 			</dict>
 			<key>res/CardGame/Poker/thanhBet.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{979,915},{99,37}}</string>
+				<string>{{482,920},{101,26}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false />
 				<key>sourceSize</key>
-				<string>{99,37}</string>
+				<string>{101,26}</string>
 			</dict>
 			<key>res/CardGame/Poker/thanhkeobanchoi.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{647,174},{315,19}}</string>
+				<string>{{409,693},{316,24}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false />
 				<key>sourceSize</key>
-				<string>{315,19}</string>
+				<string>{316,24}</string>
+			</dict>
+			<key>res/CardGame/Poker/thanhkeobanchoipoker.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,693},{406,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{406,24}</string>
 			</dict>
 			<key>res/CardGame/Poker/thanhKeoBuyIn.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{543,559},{455,42}}</string>
+				<string>{{986,1},{555,32}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<true />
 				<key>sourceSize</key>
-				<string>{455,42}</string>
+				<string>{555,32}</string>
 			</dict>
 			<key>res/CardGame/Poker/thanhXam.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{587,843},{371,48}}</string>
+				<string>{{975,558},{414,32}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<true />
 				<key>sourceSize</key>
-				<string>{371,48}</string>
+				<string>{414,32}</string>
 			</dict>
-			<key>res/CardGame/Poker/tu.png</key>
+			<key>res/CardGame/Poker/xengPoker.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{587,915},{390,40}}</string>
+				<string>{{944,920},{29,29}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{390,40}</string>
+				<string>{29,29}</string>
 			</dict>
 		</dict>
 		<key>metadata</key>

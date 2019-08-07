@@ -1,7 +1,7 @@
 {
-  "packageUrl": "http://45.76.154.110/updateGame/", 
-  "version": "6", 
+  "packageUrl": "https://gamebai.github.io/", 
+  "version": "7", 
   "searchPaths": [], 
-  "remoteVersionUrl": "http:/45.76.154.110/version.manifest", 
-  "remoteManifestUrl": "http://45.76.154.110/project.manifest"
+  "remoteVersionUrl": "https://gamebai.github.io/version.manifest", 
+  "remoteManifestUrl": "https://gamebai.github.io/project.manifest"
 }

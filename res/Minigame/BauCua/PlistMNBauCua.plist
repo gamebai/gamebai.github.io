@@ -4,10 +4,340 @@
 	<dict>
 		<key>frames</key>
 		<dict>
+			<key>res/Minigame/BauCua/Result/kq_bau1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{420,513},{62,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{62,63}</string>
+			</dict>
+			<key>res/Minigame/BauCua/Result/kq_bau2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{484,513},{62,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{62,63}</string>
+			</dict>
+			<key>res/Minigame/BauCua/Result/kq_bau3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{465,387},{62,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{62,63}</string>
+			</dict>
+			<key>res/Minigame/BauCua/Result/kq_ca1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{786,387},{62,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{62,63}</string>
+			</dict>
+			<key>res/Minigame/BauCua/Result/kq_ca2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{930,608},{62,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{62,63}</string>
+			</dict>
+			<key>res/Minigame/BauCua/Result/kq_ca3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{819,657},{62,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{62,63}</string>
+			</dict>
+			<key>res/Minigame/BauCua/Result/kq_cua1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{819,721},{62,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{62,63}</string>
+			</dict>
+			<key>res/Minigame/BauCua/Result/kq_cua2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{819,785},{62,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{62,63}</string>
+			</dict>
+			<key>res/Minigame/BauCua/Result/kq_cua3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{819,849},{62,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{62,63}</string>
+			</dict>
+			<key>res/Minigame/BauCua/Result/kq_ga1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{116,905},{62,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{62,63}</string>
+			</dict>
+			<key>res/Minigame/BauCua/Result/kq_ga2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{180,905},{62,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{62,63}</string>
+			</dict>
+			<key>res/Minigame/BauCua/Result/kq_ga3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{244,905},{62,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{62,63}</string>
+			</dict>
+			<key>res/Minigame/BauCua/Result/kq_huou1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{308,905},{62,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{62,63}</string>
+			</dict>
+			<key>res/Minigame/BauCua/Result/kq_huou2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{372,905},{62,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{62,63}</string>
+			</dict>
+			<key>res/Minigame/BauCua/Result/kq_huou3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{436,747},{62,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{62,63}</string>
+			</dict>
+			<key>res/Minigame/BauCua/Result/kq_tom1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{501,747},{62,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{62,63}</string>
+			</dict>
+			<key>res/Minigame/BauCua/Result/kq_tom2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{436,811},{62,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{62,63}</string>
+			</dict>
+			<key>res/Minigame/BauCua/Result/kq_tom3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{501,811},{62,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{62,63}</string>
+			</dict>
+			<key>res/Minigame/BauCua/SoiCau/0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,556},{59,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{59,45}</string>
+			</dict>
+			<key>res/Minigame/BauCua/SoiCau/1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{62,556},{57,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{57,44}</string>
+			</dict>
+			<key>res/Minigame/BauCua/SoiCau/2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{121,556},{57,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{57,44}</string>
+			</dict>
+			<key>res/Minigame/BauCua/SoiCau/3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{851,387},{55,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{55,41}</string>
+			</dict>
+			<key>res/Minigame/BauCua/SoiCau/4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{180,555},{57,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{57,44}</string>
+			</dict>
+			<key>res/Minigame/BauCua/SoiCau/5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{851,444},{55,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{55,41}</string>
+			</dict>
+			<key>res/Minigame/BauCua/SoiCau/cau_da_ve.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{239,555},{57,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{57,44}</string>
+			</dict>
+			<key>res/Minigame/BauCua/SoiCau/cau_vua_ve.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{298,555},{57,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{57,44}</string>
+			</dict>
+			<key>res/Minigame/BauCua/SoiCau/Click_soi_cau.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{961,1},{160,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{160,50}</string>
+			</dict>
+			<key>res/Minigame/BauCua/SoiCau/Nor_soi_cau.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{961,163},{160,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{160,50}</string>
+			</dict>
+			<key>res/Minigame/BauCua/SoiCau/soicau_x2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{786,451},{55,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{55,41}</string>
+			</dict>
+			<key>res/Minigame/BauCua/SoiCau/soicau_x3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{571,597},{55,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{55,41}</string>
+			</dict>
 			<key>res/Minigame/BauCua/background_item.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{898,1},{114,114}}</string>
+				<string>{{1,387},{114,114}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -18,40 +348,62 @@
 			<key>res/Minigame/BauCua/bau.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{898,117},{114,114}}</string>
+				<string>{{884,672},{113,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{113,114}</string>
+			</dict>
+			<key>res/Minigame/BauCua/bg_baucua.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{893,384}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{114,114}</string>
+				<string>{893,384}</string>
+			</dict>
+			<key>res/Minigame/BauCua/bg_event.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,608},{568,137}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{568,137}</string>
 			</dict>
 			<key>res/Minigame/BauCua/bg_phien.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{707,211},{144,45}}</string>
+				<string>{{896,364},{147,48}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<true />
 				<key>sourceSize</key>
-				<string>{144,45}</string>
+				<string>{147,48}</string>
 			</dict>
 			<key>res/Minigame/BauCua/bg_select_money.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{837,1},{359,59}}</string>
+				<string>{{896,1},{361,63}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<true />
 				<key>sourceSize</key>
-				<string>{359,59}</string>
+				<string>{361,63}</string>
 			</dict>
 			<key>res/Minigame/BauCua/bg_soicau.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{599,1},{208,236}}</string>
+				<string>{{548,387},{208,236}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -59,54 +411,54 @@
 				<key>sourceSize</key>
 				<string>{208,236}</string>
 			</dict>
-			<key>res/Minigame/BauCua/btn_room.png</key>
+			<key>res/Minigame/BauCua/bg_time.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{507,280},{63,63}}</string>
+				<string>{{961,325},{149,50}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<true />
 				<key>sourceSize</key>
-				<string>{63,63}</string>
+				<string>{149,50}</string>
 			</dict>
 			<key>res/Minigame/BauCua/button_click.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,276},{128,41}}</string>
+				<string>{{946,476},{130,41}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<true />
 				<key>sourceSize</key>
-				<string>{128,41}</string>
+				<string>{130,41}</string>
 			</dict>
 			<key>res/Minigame/BauCua/button_nor.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{291,248},{128,41}}</string>
+				<string>{{1,513},{130,41}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{128,41}</string>
+				<string>{130,41}</string>
 			</dict>
 			<key>res/Minigame/BauCua/ca.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{898,233},{114,114}}</string>
+				<string>{{1,905},{113,113}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{114,114}</string>
+				<string>{113,113}</string>
 			</dict>
 			<key>res/Minigame/BauCua/cua.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{898,349},{114,114}}</string>
+				<string>{{117,387},{114,114}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -117,18 +469,18 @@
 			<key>res/Minigame/BauCua/ga.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{145,132},{114,114}}</string>
+				<string>{{884,787},{114,113}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{114,114}</string>
+				<string>{114,113}</string>
 			</dict>
 			<key>res/Minigame/BauCua/Glow.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,132},{142,142}}</string>
+				<string>{{786,513},{142,142}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -139,73 +491,29 @@
 			<key>res/Minigame/BauCua/huou.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{261,132},{114,114}}</string>
+				<string>{{884,902},{114,113}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<true />
 				<key>sourceSize</key>
-				<string>{114,114}</string>
+				<string>{114,113}</string>
 			</dict>
 			<key>res/Minigame/BauCua/Invisible.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{377,132},{114,114}}</string>
+				<string>{{233,387},{114,114}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
 				<string>{114,114}</string>
-			</dict>
-			<key>res/Minigame/BauCua/tiletren.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{801,211},{88,19}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{88,19}</string>
-			</dict>
-			<key>res/Minigame/BauCua/time.jpg</key>
-			<dict>
-				<key>frame</key>
-				<string>{{754,211},{144,45}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{144,45}</string>
-			</dict>
-			<key>res/Minigame/BauCua/time.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{145,248},{144,45}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{144,45}</string>
-			</dict>
-			<key>res/Minigame/BauCua/toichonca.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{1,1},{596,129}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{596,129}</string>
 			</dict>
 			<key>res/Minigame/BauCua/tom.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{591,211},{114,114}}</string>
+				<string>{{349,387},{114,114}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -213,10 +521,21 @@
 				<key>sourceSize</key>
 				<string>{114,114}</string>
 			</dict>
+			<key>res/Minigame/BauCua/VongTron.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{571,657},{246,246}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{246,246}</string>
+			</dict>
 			<key>res/Minigame/BauCua/x2.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{889,465},{61,40}}</string>
+				<string>{{133,513},{61,40}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -227,18 +546,18 @@
 			<key>res/Minigame/BauCua/x3.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{839,484},{61,40}}</string>
+				<string>{{196,513},{61,40}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false />
 				<key>sourceSize</key>
 				<string>{61,40}</string>
 			</dict>
 			<key>res/Minigame/BauCua/x4.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{952,465},{61,40}}</string>
+				<string>{{259,513},{61,40}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -249,7 +568,7 @@
 			<key>res/Minigame/BauCua/x6.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{881,507},{61,40}}</string>
+				<string>{{322,513},{61,40}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -260,7 +579,7 @@
 			<key>res/Minigame/BauCua/x9.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{944,507},{61,40}}</string>
+				<string>{{357,555},{61,40}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -268,280 +587,16 @@
 				<key>sourceSize</key>
 				<string>{61,40}</string>
 			</dict>
-			<key>res/Minigame/BauCua/xac_nhan_click.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{421,248},{128,41}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{128,41}</string>
-			</dict>
-			<key>res/Minigame/BauCua/xac_nhan_nor.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{464,280},{128,41}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{128,41}</string>
-			</dict>
-			<key>res/Minigame/BauCua/xengbac.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{563,383},{51,53}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{51,53}</string>
-			</dict>
 			<key>res/Minigame/BauCua/xengdo.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{507,401},{51,53}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{51,53}</string>
-			</dict>
-			<key>res/Minigame/BauCua/xengtim.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{572,327},{54,54}}</string>
+				<string>{{465,451},{54,54}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
 				<string>{54,54}</string>
-			</dict>
-			<key>res/Minigame/BauCua/xengvang.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{618,383},{51,53}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{51,53}</string>
-			</dict>
-			<key>res/Minigame/BauCua/xengxanh.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{796,362},{52,53}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{52,53}</string>
-			</dict>
-			<key>res/Minigame/BauCua/SoiCau/0.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{851,362},{59,45}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{59,45}</string>
-			</dict>
-			<key>res/Minigame/BauCua/SoiCau/1.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{673,413},{59,45}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{59,45}</string>
-			</dict>
-			<key>res/Minigame/BauCua/SoiCau/2.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{734,413},{59,45}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{59,45}</string>
-			</dict>
-			<key>res/Minigame/BauCua/SoiCau/3.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{795,416},{59,45}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{59,45}</string>
-			</dict>
-			<key>res/Minigame/BauCua/SoiCau/4.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{842,423},{59,45}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{59,45}</string>
-			</dict>
-			<key>res/Minigame/BauCua/SoiCau/5.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{562,436},{59,45}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{59,45}</string>
-			</dict>
-			<key>res/Minigame/BauCua/SoiCau/cau_da_ve.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{623,436},{59,45}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{59,45}</string>
-			</dict>
-			<key>res/Minigame/BauCua/SoiCau/cau_vua_ve.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{670,460},{59,45}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{59,45}</string>
-			</dict>
-			<key>res/Minigame/BauCua/SoiCau/Click_soi_cau.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{493,132},{146,47}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{146,47}</string>
-			</dict>
-			<key>res/Minigame/BauCua/SoiCau/Nor_soi_cau.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{542,132},{146,47}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{146,47}</string>
-			</dict>
-			<key>res/Minigame/BauCua/Result/kq_bau.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{507,345},{54,54}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{54,54}</string>
-			</dict>
-			<key>res/Minigame/BauCua/Result/kq_ca.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{628,327},{54,54}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{54,54}</string>
-			</dict>
-			<key>res/Minigame/BauCua/Result/kq_cua.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{291,291},{54,54}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{54,54}</string>
-			</dict>
-			<key>res/Minigame/BauCua/Result/kq_ga.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{347,291},{54,54}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{54,54}</string>
-			</dict>
-			<key>res/Minigame/BauCua/Result/kq_huou.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{684,357},{54,54}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{54,54}</string>
-			</dict>
-			<key>res/Minigame/BauCua/Result/kq_tom.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{740,357},{54,54}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{54,54}</string>
-			</dict>
-			<key>res/Minigame/BauCua/SoiCau/soicau_x2.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{731,460},{59,45}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{59,45}</string>
-			</dict>
-			<key>res/Minigame/BauCua/SoiCau/soicau_x3.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{792,477},{59,45}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{59,45}</string>
 			</dict>
 		</dict>
 		<key>metadata</key>

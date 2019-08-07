@@ -36,10 +36,13 @@
             "Scale9Width": 248,
             "Scale9Height": 206,
             "TouchEnable": true,
-            "AnchorPoint": {},
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
             "Position": {
-              "X": 0.0,
-              "Y": 0.0
+              "X": 640.0,
+              "Y": 270.0
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -48,15 +51,15 @@
             "CColor": {},
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.0,
-              "Y": 0.0
+              "X": 0.5,
+              "Y": 0.375
             },
             "PreSize": {
-              "X": 1.3333,
-              "Y": 1.125
+              "X": 1.0,
+              "Y": 1.0
             },
-            "RightMargin": -320.0,
-            "TopMargin": -80.0,
+            "TopMargin": 90.0,
+            "BottomMargin": -90.0,
             "Tag": 193,
             "Children": [
               {
@@ -131,18 +134,18 @@
                   "Y": 0.5
                 },
                 "PreSize": {
-                  "X": 0.7258,
-                  "Y": 0.5986
+                  "X": 0.8258,
+                  "Y": 0.8431
                 },
-                "LeftMargin": 112.5002,
-                "RightMargin": 112.4998,
-                "TopMargin": 53.5,
-                "BottomMargin": 53.5,
+                "LeftMargin": 111.5002,
+                "RightMargin": 111.4998,
+                "TopMargin": 56.5,
+                "BottomMargin": 56.5,
                 "Tag": 199,
                 "ActionTag": -162652547,
                 "Size": {
-                  "X": 1055.0,
-                  "Y": 613.0
+                  "X": 1057.0,
+                  "Y": 607.0
                 },
                 "Name": "sp_tab",
                 "ctype": "SpriteObjectData"
