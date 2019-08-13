@@ -18,7 +18,7 @@
 			<key>Avenger/item/khungan/Khung_an_1.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{203,1},{200,200}}</string>
+				<string>{{1,203},{200,200}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -29,7 +29,7 @@
 			<key>Avenger/item/khungan/Khung_an_10.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{405,1},{200,200}}</string>
+				<string>{{1,405},{200,200}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -40,7 +40,7 @@
 			<key>Avenger/item/khungan/Khung_an_11.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{607,1},{200,200}}</string>
+				<string>{{1,607},{200,200}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -51,7 +51,7 @@
 			<key>Avenger/item/khungan/Khung_an_12.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{809,1},{200,200}}</string>
+				<string>{{1,809},{200,200}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -62,7 +62,7 @@
 			<key>Avenger/item/khungan/Khung_an_13.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,203},{200,200}}</string>
+				<string>{{203,1},{200,200}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -73,7 +73,7 @@
 			<key>Avenger/item/khungan/Khung_an_14.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{203,203},{200,200}}</string>
+				<string>{{405,1},{200,200}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -84,7 +84,7 @@
 			<key>Avenger/item/khungan/Khung_an_15.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{405,203},{200,200}}</string>
+				<string>{{607,1},{200,200}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -95,7 +95,7 @@
 			<key>Avenger/item/khungan/Khung_an_16.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{607,203},{200,200}}</string>
+				<string>{{809,1},{200,200}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -106,7 +106,7 @@
 			<key>Avenger/item/khungan/Khung_an_17.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{809,203},{200,200}}</string>
+				<string>{{203,203},{200,200}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -117,7 +117,7 @@
 			<key>Avenger/item/khungan/Khung_an_18.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,405},{200,200}}</string>
+				<string>{{203,405},{200,200}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -128,7 +128,7 @@
 			<key>Avenger/item/khungan/Khung_an_19.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{203,405},{200,200}}</string>
+				<string>{{203,607},{200,200}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -139,7 +139,7 @@
 			<key>Avenger/item/khungan/Khung_an_2.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{405,405},{200,200}}</string>
+				<string>{{203,809},{200,200}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -150,7 +150,7 @@
 			<key>Avenger/item/khungan/Khung_an_20.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{607,405},{200,200}}</string>
+				<string>{{405,203},{200,200}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -161,7 +161,7 @@
 			<key>Avenger/item/khungan/Khung_an_21.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{809,405},{200,200}}</string>
+				<string>{{607,203},{200,200}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -172,84 +172,7 @@
 			<key>Avenger/item/khungan/Khung_an_22.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,607},{200,200}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{200,200}</string>
-			</dict>
-			<key>Avenger/item/khungan/Khung_an_23.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{203,607},{200,200}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{200,200}</string>
-			</dict>
-			<key>Avenger/item/khungan/Khung_an_24.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{405,607},{200,200}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{200,200}</string>
-			</dict>
-			<key>Avenger/item/khungan/Khung_an_25.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{607,607},{200,200}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{200,200}</string>
-			</dict>
-			<key>Avenger/item/khungan/Khung_an_26.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{809,607},{200,200}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{200,200}</string>
-			</dict>
-			<key>Avenger/item/khungan/Khung_an_27.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{1,809},{200,200}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{200,200}</string>
-			</dict>
-			<key>Avenger/item/khungan/Khung_an_28.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{203,809},{200,200}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{200,200}</string>
-			</dict>
-			<key>Avenger/item/khungan/Khung_an_29.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{405,809},{200,200}}</string>
+				<string>{{809,203},{200,200}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -260,29 +183,7 @@
 			<key>Avenger/item/khungan/Khung_an_3.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{607,809},{200,200}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{200,200}</string>
-			</dict>
-			<key>Avenger/item/khungan/Khung_an_30.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{809,809},{200,200}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{200,200}</string>
-			</dict>
-			<key>Avenger/item/khungan/Khung_an_31.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{1,1011},{200,200}}</string>
+				<string>{{405,405},{200,200}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -293,7 +194,7 @@
 			<key>Avenger/item/khungan/Khung_an_4.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{203,1011},{200,200}}</string>
+				<string>{{405,607},{200,200}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -304,7 +205,7 @@
 			<key>Avenger/item/khungan/Khung_an_5.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{405,1011},{200,200}}</string>
+				<string>{{405,809},{200,200}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -315,7 +216,7 @@
 			<key>Avenger/item/khungan/Khung_an_6.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{607,1011},{200,200}}</string>
+				<string>{{607,405},{200,200}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -326,7 +227,7 @@
 			<key>Avenger/item/khungan/Khung_an_7.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{809,1011},{200,200}}</string>
+				<string>{{809,405},{200,200}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -337,7 +238,7 @@
 			<key>Avenger/item/khungan/Khung_an_8.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,1213},{200,200}}</string>
+				<string>{{607,607},{200,200}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -348,7 +249,7 @@
 			<key>Avenger/item/khungan/Khung_an_9.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,1415},{200,200}}</string>
+				<string>{{607,809},{200,200}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -366,14 +267,14 @@
 			<key>realTextureFileName</key>
 			<string>PlistKhungAn.png</string>
 			<key>size</key>
-			<string>{1024,2048}</string>
+			<string>{1024,1024}</string>
 		</dict>
 		<key>texture</key>
 		<dict>
 			<key>width</key>
 			<integer>1024</integer>
 			<key>height</key>
-			<integer>2048</integer>
+			<integer>1024</integer>
 		</dict>
 	</dict>
 </plist>
