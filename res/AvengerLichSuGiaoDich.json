@@ -47,7 +47,7 @@
             },
             "Position": {
               "X": 640.0,
-              "Y": 360.0
+              "Y": 270.0
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -57,12 +57,14 @@
             "IconVisible": false,
             "PrePosition": {
               "X": 0.5,
-              "Y": 0.5
+              "Y": 0.375
             },
             "PreSize": {
               "X": 1.0,
               "Y": 1.0
             },
+            "TopMargin": 90.0,
+            "BottomMargin": -90.0,
             "Tag": 137,
             "Children": [
               {
@@ -225,7 +227,7 @@
                     "ctype": "SpriteObjectData"
                   },
                   {
-                    "FontSize": 50,
+                    "FontSize": 48,
                     "LabelText": "LỊCH SỬ GIAO DỊCH",
                     "FontResource": {
                       "Type": "Normal",

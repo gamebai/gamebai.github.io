@@ -1,0 +1,9 @@
+{
+    "packageUrl": "http://210.211.101.230/mobile/game/minipoker/res/Minigame/ResMiniPoker/",
+    "searchPaths": [],
+    "assets": "{}",
+    "remoteVersionUrl": "http://210.211.101.230/mobile/game/minipoker/res/Minigame/ResMiniPoker/version.manifest",
+    "version": "1.0.0",
+    "engineVersion": "3.12",
+    "remoteManifestUrl": "http://210.211.101.230/mobile/game/minipoker/res/Minigame/ResMiniPoker/project.manifest"
+}

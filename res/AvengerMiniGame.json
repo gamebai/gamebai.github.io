@@ -35,10 +35,13 @@
             "Scale9Width": 844,
             "Scale9Height": 474,
             "TouchEnable": true,
-            "AnchorPoint": {},
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
             "Position": {
-              "X": 0.0,
-              "Y": 0.0
+              "X": 640.0,
+              "Y": 270.0
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -47,13 +50,15 @@
             "CColor": {},
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.0,
-              "Y": 0.0
+              "X": 0.5,
+              "Y": 0.375
             },
             "PreSize": {
               "X": 1.0,
               "Y": 1.0
             },
+            "TopMargin": 90.0,
+            "BottomMargin": -90.0,
             "Tag": 166,
             "Children": [
               {
@@ -1647,17 +1652,17 @@
                 },
                 "PreSize": {
                   "X": 0.2578,
-                  "Y": 0.4431
+                  "Y": 0.4583
                 },
                 "LeftMargin": 595.0,
                 "RightMargin": 355.0,
-                "TopMargin": 352.0,
+                "TopMargin": 341.0,
                 "BottomMargin": 49.0,
                 "Tag": 173,
                 "ActionTag": 1291753831,
                 "Size": {
                   "X": 330.0,
-                  "Y": 319.0
+                  "Y": 330.0
                 },
                 "Name": "sp_minigame_hulk",
                 "ctype": "SpriteObjectData"
@@ -1889,7 +1894,7 @@
               },
               {
                 "IsCustomSize": true,
-                "FontSize": 20,
+                "FontSize": 36,
                 "LabelText": "+100.000",
                 "FontResource": {
                   "Type": "Normal",
@@ -1931,18 +1936,18 @@
                   "Y": 0.2628
                 },
                 "PreSize": {
-                  "X": 0.1328,
-                  "Y": 0.0347
+                  "X": 0.3164,
+                  "Y": 0.0431
                 },
-                "LeftMargin": 211.0285,
-                "RightMargin": 898.9715,
-                "TopMargin": 518.2994,
-                "BottomMargin": 176.7006,
+                "LeftMargin": 93.5285,
+                "RightMargin": 781.4715,
+                "TopMargin": 515.2994,
+                "BottomMargin": 173.7006,
                 "Tag": 124,
                 "ActionTag": 1277683185,
                 "Size": {
-                  "X": 170.0,
-                  "Y": 25.0
+                  "X": 405.0,
+                  "Y": 31.0
                 },
                 "Name": "lb_cong_tien",
                 "ctype": "TextObjectData"
@@ -2100,7 +2105,7 @@
                       {
                         "IsCustomSize": true,
                         "FontSize": 60,
-                        "LabelText": "200.000",
+                        "LabelText": "0",
                         "FontResource": {
                           "Type": "Normal",
                           "Path": "Font/UTM-Bitsumishi-Pro.ttf",
@@ -2117,14 +2122,14 @@
                           "B": 110
                         },
                         "ShadowOffsetX": 2.0,
-                        "ShadowOffsetY": 2.0,
+                        "ShadowOffsetY": -2.0,
                         "ShadowEnabled": true,
                         "AnchorPoint": {
                           "ScaleX": 0.5,
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 137.0,
+                          "X": 136.81,
                           "Y": 70.0
                         },
                         "Scale": {
@@ -2136,15 +2141,15 @@
                         },
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2024,
+                          "X": 0.2021,
                           "Y": 1.4
                         },
                         "PreSize": {
                           "X": 0.3988,
                           "Y": 1.5
                         },
-                        "LeftMargin": 2.0,
-                        "RightMargin": 405.0,
+                        "LeftMargin": 1.81,
+                        "RightMargin": 405.19,
                         "TopMargin": -57.5,
                         "BottomMargin": 32.5,
                         "Tag": 182,
@@ -2165,6 +2170,7 @@
                           "Path": "Font/UTM-Bitsumishi-Pro.ttf",
                           "Plist": ""
                         },
+                        "HorizontalAlignmentType": "HT_Center",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -2182,7 +2188,7 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 298.0,
+                          "X": 297.6188,
                           "Y": 70.0
                         },
                         "Scale": {
@@ -2196,15 +2202,15 @@
                         },
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.4402,
+                          "X": 0.4396,
                           "Y": 1.4
                         },
                         "PreSize": {
                           "X": 0.0561,
                           "Y": 1.5
                         },
-                        "LeftMargin": 279.0,
-                        "RightMargin": 360.0,
+                        "LeftMargin": 278.6188,
+                        "RightMargin": 360.3812,
                         "TopMargin": -57.5,
                         "BottomMargin": 32.5,
                         "Tag": 190,
@@ -2219,12 +2225,14 @@
                       {
                         "IsCustomSize": true,
                         "FontSize": 60,
-                        "LabelText": "9",
+                        "LabelText": "0",
                         "FontResource": {
                           "Type": "Normal",
                           "Path": "Font/UTM-Bitsumishi-Pro.ttf",
                           "Plist": ""
                         },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -2235,15 +2243,15 @@
                           "B": 110
                         },
                         "ShadowOffsetX": 2.0,
-                        "ShadowOffsetY": 2.0,
+                        "ShadowOffsetY": -2.0,
                         "ShadowEnabled": true,
                         "AnchorPoint": {
                           "ScaleX": 0.5,
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 341.0001,
-                          "Y": 70.0001
+                          "X": 340.2684,
+                          "Y": 70.0
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -2254,21 +2262,21 @@
                         },
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.5037,
+                          "X": 0.5026,
                           "Y": 1.4
                         },
                         "PreSize": {
-                          "X": 0.0502,
+                          "X": 0.0547,
                           "Y": 1.5
                         },
-                        "LeftMargin": 324.0001,
-                        "RightMargin": 318.9999,
-                        "TopMargin": -57.5001,
-                        "BottomMargin": 32.5001,
+                        "LeftMargin": 321.7684,
+                        "RightMargin": 318.2316,
+                        "TopMargin": -57.5,
+                        "BottomMargin": 32.5,
                         "Tag": 191,
                         "ActionTag": -351471589,
                         "Size": {
-                          "X": 34.0,
+                          "X": 37.0,
                           "Y": 75.0
                         },
                         "Name": "lb_nhan",
@@ -2277,7 +2285,7 @@
                       {
                         "IsCustomSize": true,
                         "FontSize": 60,
-                        "LabelText": "200.000",
+                        "LabelText": "0",
                         "FontResource": {
                           "Type": "Normal",
                           "Path": "Font/UTM-Bitsumishi-Pro.ttf",
@@ -2293,15 +2301,15 @@
                           "G": 110,
                           "B": 110
                         },
-                        "ShadowOffsetX": 2.0,
-                        "ShadowOffsetY": 2.0,
+                        "ShadowOffsetX": 4.0,
+                        "ShadowOffsetY": 4.0,
                         "ShadowEnabled": true,
                         "AnchorPoint": {
                           "ScaleX": 0.5,
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 540.0,
+                          "X": 540.6858,
                           "Y": 70.0
                         },
                         "Scale": {
@@ -2313,15 +2321,15 @@
                         },
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.7976,
+                          "X": 0.7986,
                           "Y": 1.4
                         },
                         "PreSize": {
                           "X": 0.3988,
                           "Y": 1.5
                         },
-                        "LeftMargin": 405.0,
-                        "RightMargin": 2.0,
+                        "LeftMargin": 405.6858,
+                        "RightMargin": 1.3142,
                         "TopMargin": -57.5,
                         "BottomMargin": 32.5,
                         "Tag": 193,
@@ -2342,6 +2350,7 @@
                           "Path": "Font/UTM-Bitsumishi-Pro.ttf",
                           "Plist": ""
                         },
+                        "HorizontalAlignmentType": "HT_Center",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -2359,7 +2368,7 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 386.2787,
+                          "X": 382.1631,
                           "Y": 70.0
                         },
                         "Scale": {
@@ -2373,19 +2382,19 @@
                         },
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.5706,
+                          "X": 0.5645,
                           "Y": 1.4
                         },
                         "PreSize": {
                           "X": 0.0561,
                           "Y": 1.5
                         },
-                        "LeftMargin": 367.2787,
-                        "RightMargin": 271.7213,
+                        "LeftMargin": 363.1631,
+                        "RightMargin": 275.8369,
                         "TopMargin": -57.5,
                         "BottomMargin": 32.5,
-                        "Tag": 150,
-                        "ActionTag": -541374087,
+                        "Tag": 152,
+                        "ActionTag": -733191197,
                         "Size": {
                           "X": 38.0,
                           "Y": 75.0
@@ -2512,7 +2521,7 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 352.0,
+                      "X": 370.001,
                       "Y": 277.0
                     },
                     "Scale": {
@@ -2522,15 +2531,15 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4869,
+                      "X": 0.5118,
                       "Y": 0.6533
                     },
                     "PreSize": {
                       "X": 0.2365,
                       "Y": 0.3373
                     },
-                    "LeftMargin": 266.5,
-                    "RightMargin": 285.5,
+                    "LeftMargin": 284.501,
+                    "RightMargin": 267.499,
                     "TopMargin": 75.5,
                     "BottomMargin": 205.5,
                     "Tag": 199,
@@ -2702,7 +2711,7 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 352.0,
+                      "X": 370.001,
                       "Y": 277.0
                     },
                     "Scale": {
@@ -2714,15 +2723,15 @@
                     },
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4869,
+                      "X": 0.5118,
                       "Y": 0.6533
                     },
                     "PreSize": {
                       "X": 0.1936,
                       "Y": 0.3019
                     },
-                    "LeftMargin": 282.0,
-                    "RightMargin": 301.0,
+                    "LeftMargin": 300.001,
+                    "RightMargin": 282.999,
                     "TopMargin": 83.0,
                     "BottomMargin": 213.0,
                     "Tag": 202,

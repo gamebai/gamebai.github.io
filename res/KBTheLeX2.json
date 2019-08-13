@@ -60,9 +60,13 @@
               "Y": 0.5
             },
             "PreSize": {
-              "X": 1.0,
-              "Y": 1.0
+              "X": 1.5,
+              "Y": 1.5
             },
+            "LeftMargin": -320.0,
+            "RightMargin": -320.0,
+            "TopMargin": -180.0,
+            "BottomMargin": -180.0,
             "Tag": 212,
             "Children": [
               {
@@ -89,8 +93,8 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 640.2355,
-                  "Y": 589.1777
+                  "X": 961.3527,
+                  "Y": 766.7186
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -103,17 +107,17 @@
                 },
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.5002,
-                  "Y": 0.8183
+                  "X": 0.5007,
+                  "Y": 0.7099
                 },
                 "PreSize": {
-                  "X": 0.3047,
-                  "Y": 0.0819
+                  "X": 0.2031,
+                  "Y": 0.0546
                 },
-                "LeftMargin": 445.2355,
-                "RightMargin": 444.7645,
-                "TopMargin": 101.3223,
-                "BottomMargin": 559.6777,
+                "LeftMargin": 766.3527,
+                "RightMargin": 763.6473,
+                "TopMargin": 283.7814,
+                "BottomMargin": 737.2186,
                 "Tag": 225,
                 "ActionTag": -1653203133,
                 "Size": {
@@ -133,17 +137,17 @@
                 },
                 "DisabledFileData": {
                   "Type": "Normal",
-                  "Path": "SlotKhoBau/huongdan/close_click.png",
+                  "Path": "SlotKhoBau/close_click.png",
                   "Plist": ""
                 },
                 "PressedFileData": {
                   "Type": "Normal",
-                  "Path": "SlotKhoBau/huongdan/close_click.png",
+                  "Path": "SlotKhoBau/close_click.png",
                   "Plist": ""
                 },
                 "NormalFileData": {
                   "Type": "Normal",
-                  "Path": "SlotKhoBau/huongdan/close_nor.png",
+                  "Path": "SlotKhoBau/close_nor.png",
                   "Plist": ""
                 },
                 "Scale9Enable": true,
@@ -168,8 +172,8 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 1208.7865,
-                  "Y": 591.9553
+                  "X": 1529.9258,
+                  "Y": 769.4808
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -178,17 +182,17 @@
                 "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.9444,
-                  "Y": 0.8222
+                  "X": 0.7968,
+                  "Y": 0.7125
                 },
                 "PreSize": {
-                  "X": 0.0609,
-                  "Y": 0.1083
+                  "X": 0.0406,
+                  "Y": 0.0722
                 },
-                "LeftMargin": 1169.7865,
-                "RightMargin": 32.2135,
-                "TopMargin": 89.0447,
-                "BottomMargin": 552.9553,
+                "LeftMargin": 1490.9258,
+                "RightMargin": 351.0742,
+                "TopMargin": 271.5192,
+                "BottomMargin": 730.4808,
                 "Tag": 226,
                 "ActionTag": 1989670502,
                 "Size": {
@@ -219,8 +223,8 @@
                 "ShadowOffsetY": -2.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": 119.0,
-                  "Y": 498.2259
+                  "X": 440.1548,
+                  "Y": 675.764
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -229,17 +233,17 @@
                 "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.093,
-                  "Y": 0.692
+                  "X": 0.2292,
+                  "Y": 0.6257
                 },
                 "PreSize": {
-                  "X": 0.0688,
-                  "Y": 0.0389
+                  "X": 0.0458,
+                  "Y": 0.0259
                 },
-                "LeftMargin": 119.0,
-                "RightMargin": 1073.0,
-                "TopMargin": 193.7741,
-                "BottomMargin": 498.2259,
+                "LeftMargin": 440.1548,
+                "RightMargin": 1391.8452,
+                "TopMargin": 376.236,
+                "BottomMargin": 675.764,
                 "Tag": 227,
                 "ActionTag": -395359468,
                 "Size": {
@@ -273,8 +277,8 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 295.7166,
-                  "Y": 511.3424
+                  "X": 616.8677,
+                  "Y": 688.8829
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -285,17 +289,17 @@
                 },
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.231,
-                  "Y": 0.7102
+                  "X": 0.3213,
+                  "Y": 0.6379
                 },
                 "PreSize": {
-                  "X": 0.125,
-                  "Y": 0.0389
+                  "X": 0.0833,
+                  "Y": 0.0259
                 },
-                "LeftMargin": 215.7166,
-                "RightMargin": 904.2834,
-                "TopMargin": 194.6576,
-                "BottomMargin": 497.3424,
+                "LeftMargin": 536.8677,
+                "RightMargin": 1223.1323,
+                "TopMargin": 377.1171,
+                "BottomMargin": 674.8829,
                 "Tag": 228,
                 "ActionTag": 610970009,
                 "Size": {
@@ -329,8 +333,8 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 477.1899,
-                  "Y": 510.3428
+                  "X": 798.3244,
+                  "Y": 687.8833
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -339,17 +343,17 @@
                 "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.3728,
-                  "Y": 0.7088
+                  "X": 0.4158,
+                  "Y": 0.6369
                 },
                 "PreSize": {
-                  "X": 0.1461,
-                  "Y": 0.0389
+                  "X": 0.0974,
+                  "Y": 0.0259
                 },
-                "LeftMargin": 383.6899,
-                "RightMargin": 709.3101,
-                "TopMargin": 195.6572,
-                "BottomMargin": 496.3428,
+                "LeftMargin": 704.8244,
+                "RightMargin": 1028.1755,
+                "TopMargin": 378.1167,
+                "BottomMargin": 673.8833,
                 "Tag": 229,
                 "ActionTag": -431905861,
                 "Size": {
@@ -380,8 +384,8 @@
                 "ShadowOffsetY": -2.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": 119.0,
-                  "Y": 431.8372
+                  "X": 440.1548,
+                  "Y": 609.3774
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -390,17 +394,17 @@
                 "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.093,
-                  "Y": 0.5998
+                  "X": 0.2292,
+                  "Y": 0.5642
                 },
                 "PreSize": {
-                  "X": 0.5953,
-                  "Y": 0.0778
+                  "X": 0.3969,
+                  "Y": 0.0519
                 },
-                "LeftMargin": 119.0,
-                "RightMargin": 399.0,
-                "TopMargin": 232.1628,
-                "BottomMargin": 431.8372,
+                "LeftMargin": 440.1548,
+                "RightMargin": 717.8452,
+                "TopMargin": 414.6226,
+                "BottomMargin": 609.3774,
                 "Tag": 230,
                 "ActionTag": -711635026,
                 "Size": {
@@ -431,8 +435,8 @@
                 "ShadowOffsetY": -2.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": 119.0,
-                  "Y": 402.946
+                  "X": 440.1548,
+                  "Y": 580.4865
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -443,17 +447,17 @@
                 },
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.093,
-                  "Y": 0.5596
+                  "X": 0.2292,
+                  "Y": 0.5375
                 },
                 "PreSize": {
-                  "X": 0.1891,
-                  "Y": 0.0389
+                  "X": 0.126,
+                  "Y": 0.0259
                 },
-                "LeftMargin": 119.0,
-                "RightMargin": 919.0,
-                "TopMargin": 289.054,
-                "BottomMargin": 402.946,
+                "LeftMargin": 440.1548,
+                "RightMargin": 1237.8452,
+                "TopMargin": 471.5135,
+                "BottomMargin": 580.4865,
                 "Tag": 231,
                 "ActionTag": 1214933018,
                 "Size": {
@@ -484,8 +488,8 @@
                 "ShadowOffsetY": -2.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": 375.0456,
-                  "Y": 402.5599
+                  "X": 696.1905,
+                  "Y": 580.0993
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -494,17 +498,17 @@
                 "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.293,
-                  "Y": 0.5591
+                  "X": 0.3626,
+                  "Y": 0.5371
                 },
                 "PreSize": {
-                  "X": 0.4227,
-                  "Y": 0.0389
+                  "X": 0.2818,
+                  "Y": 0.0259
                 },
-                "LeftMargin": 375.0456,
-                "RightMargin": 363.9544,
-                "TopMargin": 289.4401,
-                "BottomMargin": 402.5599,
+                "LeftMargin": 696.1905,
+                "RightMargin": 682.8096,
+                "TopMargin": 471.9007,
+                "BottomMargin": 580.0993,
                 "Tag": 232,
                 "ActionTag": 2124629374,
                 "Size": {
@@ -535,8 +539,8 @@
                 "ShadowOffsetY": -2.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": 119.0,
-                  "Y": 371.1752
+                  "X": 440.1548,
+                  "Y": 548.714
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -547,17 +551,17 @@
                 },
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.093,
-                  "Y": 0.5155
+                  "X": 0.2292,
+                  "Y": 0.5081
                 },
                 "PreSize": {
-                  "X": 0.0492,
-                  "Y": 0.0389
+                  "X": 0.0328,
+                  "Y": 0.0259
                 },
-                "LeftMargin": 119.0,
-                "RightMargin": 1098.0,
-                "TopMargin": 320.8248,
-                "BottomMargin": 371.1752,
+                "LeftMargin": 440.1548,
+                "RightMargin": 1416.8452,
+                "TopMargin": 503.286,
+                "BottomMargin": 548.714,
                 "Tag": 233,
                 "ActionTag": 971127823,
                 "Size": {
@@ -588,8 +592,8 @@
                 "ShadowOffsetY": -2.0,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": 119.0,
-                  "Y": 113.2912
+                  "X": 440.1548,
+                  "Y": 290.8382
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -598,17 +602,17 @@
                 "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.093,
-                  "Y": 0.1573
+                  "X": 0.2292,
+                  "Y": 0.2693
                 },
                 "PreSize": {
-                  "X": 0.6297,
-                  "Y": 0.35
+                  "X": 0.4198,
+                  "Y": 0.2333
                 },
-                "LeftMargin": 119.0,
-                "RightMargin": 355.0,
-                "TopMargin": 354.7088,
-                "BottomMargin": 113.2912,
+                "LeftMargin": 440.1548,
+                "RightMargin": 673.8452,
+                "TopMargin": 537.1619,
+                "BottomMargin": 290.8382,
                 "Tag": 234,
                 "ActionTag": 357190813,
                 "Size": {
@@ -621,8 +625,8 @@
             ],
             "ActionTag": -1170939173,
             "Size": {
-              "X": 1280.0,
-              "Y": 720.0
+              "X": 1920.0,
+              "Y": 1080.0
             },
             "Name": "pTheLe",
             "ctype": "PanelObjectData"
@@ -639,8 +643,8 @@
         "Font/Roboto-Bold.ttf",
         "Font/Roboto-Regular.ttf",
         "SlotKhoBau/bg/bg_tab.png",
-        "SlotKhoBau/huongdan/close_click.png",
-        "SlotKhoBau/huongdan/close_nor.png"
+        "SlotKhoBau/close_click.png",
+        "SlotKhoBau/close_nor.png"
       ],
       "ctype": "GameFileData"
     }

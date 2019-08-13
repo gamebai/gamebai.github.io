@@ -7,18 +7,29 @@
 			<key>res/Minigame/ResCaoThap/a.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{792,355},{74,90}}</string>
+				<string>{{124,372},{73,91}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false />
 				<key>sourceSize</key>
-				<string>{74,90}</string>
+				<string>{73,91}</string>
+			</dict>
+			<key>res/Minigame/ResCaoThap/bg_hu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{124,315},{237,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{237,55}</string>
 			</dict>
 			<key>res/Minigame/ResCaoThap/bg_labai.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{792,257},{96,124}}</string>
+				<string>{{363,157},{96,124}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -29,51 +40,51 @@
 			<key>res/Minigame/ResCaoThap/bg_labai_to.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{792,132},{123,151}}</string>
+				<string>{{1,315},{121,156}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false />
 				<key>sourceSize</key>
-				<string>{123,151}</string>
+				<string>{121,156}</string>
 			</dict>
 			<key>res/Minigame/ResCaoThap/bg_phien.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,394},{124,33}}</string>
+				<string>{{124,465},{132,39}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{124,33}</string>
+				<string>{132,39}</string>
 			</dict>
-			<key>res/Minigame/ResCaoThap/bg_point.png</key>
+			<key>res/Minigame/ResCaoThap/bg_tien.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{945,143},{138,48}}</string>
+				<string>{{357,255},{137,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{137,47}</string>
+			</dict>
+			<key>res/Minigame/ResCaoThap/bg_time.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{467,304},{132,42}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<true />
 				<key>sourceSize</key>
-				<string>{138,48}</string>
-			</dict>
-			<key>res/Minigame/ResCaoThap/bg_time.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{436,431},{126,39}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{126,39}</string>
+				<string>{132,42}</string>
 			</dict>
 			<key>res/Minigame/ResCaoThap/bich.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{995,143},{14,17}}</string>
+				<string>{{487,1},{14,17}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -84,40 +95,40 @@
 			<key>res/Minigame/ResCaoThap/btnluotmoi.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,431},{143,43}}</string>
+				<string>{{125,255},{159,50}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{143,43}</string>
+				<string>{159,50}</string>
 			</dict>
 			<key>res/Minigame/ResCaoThap/btnluotmoi_dis.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{146,430},{143,43}}</string>
+				<string>{{363,304},{159,50}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<true />
 				<key>sourceSize</key>
-				<string>{143,43}</string>
+				<string>{159,50}</string>
 			</dict>
 			<key>res/Minigame/ResCaoThap/btnluotmoi_s.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{291,431},{143,43}}</string>
+				<string>{{415,304},{159,50}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<true />
 				<key>sourceSize</key>
-				<string>{143,43}</string>
+				<string>{159,50}</string>
 			</dict>
 			<key>res/Minigame/ResCaoThap/btnplay.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{884,409},{62,82}}</string>
+				<string>{{199,372},{62,82}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -128,40 +139,40 @@
 			<key>res/Minigame/ResCaoThap/btn-up-dis.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{948,465},{68,38}}</string>
+				<string>{{467,438},{68,44}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<true />
 				<key>sourceSize</key>
-				<string>{68,38}</string>
+				<string>{68,44}</string>
 			</dict>
 			<key>res/Minigame/ResCaoThap/btn-up-h.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{436,472},{68,38}}</string>
+				<string>{{258,465},{68,44}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{68,38}</string>
+				<string>{68,44}</string>
 			</dict>
-			<key>res/Minigame/ResCaoThap/buttonVin.png</key>
+			<key>res/Minigame/ResCaoThap/btn-up-h-s.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{127,394},{94,34}}</string>
+				<string>{{328,465},{68,44}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{94,34}</string>
+				<string>{68,44}</string>
 			</dict>
 			<key>res/Minigame/ResCaoThap/co.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{995,159},{14,17}}</string>
+				<string>{{487,17},{14,17}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -172,18 +183,18 @@
 			<key>res/Minigame/ResCaoThap/dis_chat.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{948,409},{54,63}}</string>
+				<string>{{263,372},{54,63}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false />
 				<key>sourceSize</key>
 				<string>{54,63}</string>
 			</dict>
 			<key>res/Minigame/ResCaoThap/disactive-room.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{884,355},{30,30}}</string>
+				<string>{{1,473},{30,30}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -194,18 +205,18 @@
 			<key>res/Minigame/ResCaoThap/event_caothap.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{693,1},{391,97}}</string>
+				<string>{{1,1},{484,154}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false />
 				<key>sourceSize</key>
-				<string>{391,97}</string>
+				<string>{484,154}</string>
 			</dict>
 			<key>res/Minigame/ResCaoThap/icon_caothap.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{950,1},{140,69}}</string>
+				<string>{{286,157},{140,69}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -216,29 +227,29 @@
 			<key>res/Minigame/ResCaoThap/image_blur.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{918,283},{96,124}}</string>
+				<string>{{125,157},{96,124}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<false />
+				<true />
 				<key>sourceSize</key>
 				<string>{96,124}</string>
 			</dict>
 			<key>res/Minigame/ResCaoThap/labai.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{792,1},{129,156}}</string>
+				<string>{{1,157},{122,156}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
-				<true />
+				<false />
 				<key>sourceSize</key>
-				<string>{129,156}</string>
+				<string>{122,156}</string>
 			</dict>
 			<key>res/Minigame/ResCaoThap/ro.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{995,175},{14,17}}</string>
+				<string>{{487,33},{14,17}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -249,35 +260,13 @@
 			<key>res/Minigame/ResCaoThap/te.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{995,191},{14,17}}</string>
+				<string>{{487,49},{14,17}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<true />
 				<key>sourceSize</key>
 				<string>{14,17}</string>
-			</dict>
-			<key>res/Minigame/ResCaoThap/vach.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{1021,1},{1,30}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{1,30}</string>
-			</dict>
-			<key>res/Minigame/ResCaoThap/su-kien-iphone.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{1,1},{690,258}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{690,258}</string>
 			</dict>
 		</dict>
 		<key>metadata</key>
@@ -289,12 +278,12 @@
 			<key>realTextureFileName</key>
 			<string>PlistCaoThap.png</string>
 			<key>size</key>
-			<string>{1024,512}</string>
+			<string>{512,512}</string>
 		</dict>
 		<key>texture</key>
 		<dict>
 			<key>width</key>
-			<integer>1024</integer>
+			<integer>512</integer>
 			<key>height</key>
 			<integer>512</integer>
 		</dict>

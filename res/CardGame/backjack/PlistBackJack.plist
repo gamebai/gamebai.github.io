@@ -7,7 +7,7 @@
 			<key>res/CardGame/backjack/1.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,708},{173,175}}</string>
+				<string>{{1,1},{173,175}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -15,54 +15,10 @@
 				<key>sourceSize</key>
 				<string>{173,175}</string>
 			</dict>
-			<key>res/CardGame/backjack/16D.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{176,839},{130,42}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{130,42}</string>
-			</dict>
-			<key>res/CardGame/backjack/17D.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{239,956},{130,42}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{130,42}</string>
-			</dict>
-			<key>res/CardGame/backjack/18D.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{264,705},{130,42}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{130,42}</string>
-			</dict>
-			<key>res/CardGame/backjack/19D.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{308,705},{130,42}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{130,42}</string>
-			</dict>
 			<key>res/CardGame/backjack/2.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{137,517},{151,153}}</string>
+				<string>{{1,178},{151,153}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -70,43 +26,10 @@
 				<key>sourceSize</key>
 				<string>{151,153}</string>
 			</dict>
-			<key>res/CardGame/backjack/20D.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{308,837},{130,42}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{130,42}</string>
-			</dict>
-			<key>res/CardGame/backjack/21diem.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{354,881},{130,42}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{130,42}</string>
-			</dict>
-			<key>res/CardGame/backjack/bandanglamcai.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{137,1},{514,56}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{514,56}</string>
-			</dict>
 			<key>res/CardGame/backjack/bangten.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{107,958},{130,43}}</string>
+				<string>{{139,465},{130,43}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -114,21 +37,43 @@
 				<key>sourceSize</key>
 				<string>{130,43}</string>
 			</dict>
-			<key>res/CardGame/backjack/batdau.png</key>
+			<key>res/CardGame/backjack/bg_dark.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,885},{219,71}}</string>
+				<string>{{154,178},{196,48}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{219,71}</string>
+				<string>{196,48}</string>
+			</dict>
+			<key>res/CardGame/backjack/bg_diem.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{154,228},{196,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{196,48}</string>
+			</dict>
+			<key>res/CardGame/backjack/bg_xi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{113,333},{130,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{130,86}</string>
 			</dict>
 			<key>res/CardGame/backjack/btnxettatcadisable.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{195,411},{136,37}}</string>
+				<string>{{1,469},{136,37}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -139,18 +84,7 @@
 			<key>res/CardGame/backjack/btnxettatcanormal.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{440,687},{136,36}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{136,36}</string>
-			</dict>
-			<key>res/CardGame/backjack/btnxettatcapress.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{195,450},{136,37}}</string>
+				<string>{{154,278},{136,37}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -158,10 +92,21 @@
 				<key>sourceSize</key>
 				<string>{136,37}</string>
 			</dict>
+			<key>res/CardGame/backjack/btnxettatcapress.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{201,317},{136,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{136,37}</string>
+			</dict>
 			<key>res/CardGame/backjack/danbaidisable.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{440,411},{136,37}}</string>
+				<string>{{240,317},{136,37}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -172,18 +117,18 @@
 			<key>res/CardGame/backjack/danbainormal.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{290,489},{136,36}}</string>
+				<string>{{271,455},{136,37}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{136,36}</string>
+				<string>{136,37}</string>
 			</dict>
 			<key>res/CardGame/backjack/danbaipress.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{440,549},{136,37}}</string>
+				<string>{{279,317},{136,37}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -191,21 +136,10 @@
 				<key>sourceSize</key>
 				<string>{136,37}</string>
 			</dict>
-			<key>res/CardGame/backjack/dangdoirutbai.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{440,265},{144,36}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{144,36}</string>
-			</dict>
 			<key>res/CardGame/backjack/iconChuong.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{409,952},{37,36}}</string>
+				<string>{{409,425},{37,36}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -213,131 +147,21 @@
 				<key>sourceSize</key>
 				<string>{37,36}</string>
 			</dict>
-			<key>res/CardGame/backjack/iconChuong2.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{1,958},{104,63}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{104,63}</string>
-			</dict>
 			<key>res/CardGame/backjack/iconXiZach.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1,1},{705,134}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{705,134}</string>
-			</dict>
-			<key>res/CardGame/backjack/ngulinh.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{440,1},{130,42}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{130,42}</string>
-			</dict>
-			<key>res/CardGame/backjack/quac.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{440,133},{130,42}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{130,42}</string>
-			</dict>
-			<key>res/CardGame/backjack/sansang.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{447,925},{78,36}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{78,36}</string>
-			</dict>
-			<key>res/CardGame/backjack/textdanbai.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{371,952},{65,36}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{65,36}</string>
-			</dict>
-			<key>res/CardGame/backjack/textRutBai.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{137,672},{106,33}}</string>
+				<string>{{1,333},{110,134}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{106,33}</string>
-			</dict>
-			<key>res/CardGame/backjack/xetbai1.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{245,672},{92,31}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{92,31}</string>
-			</dict>
-			<key>res/CardGame/backjack/xetbai2.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{339,527},{107,46}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{107,46}</string>
+				<string>{110,134}</string>
 			</dict>
 			<key>res/CardGame/backjack/xetbaidis.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{485,925},{91,24}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{91,24}</string>
-			</dict>
-			<key>res/CardGame/backjack/xetbainormal.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{486,1},{91,24}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<true />
-				<key>sourceSize</key>
-				<string>{91,24}</string>
-			</dict>
-			<key>res/CardGame/backjack/xetBaiPress.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{354,925},{91,25}}</string>
+				<string>{{292,278},{91,25}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -345,38 +169,27 @@
 				<key>sourceSize</key>
 				<string>{91,25}</string>
 			</dict>
-			<key>res/CardGame/backjack/xibang.png</key>
+			<key>res/CardGame/backjack/xetbainormal.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{176,707},{130,86}}</string>
+				<string>{{318,305},{91,25}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<true />
 				<key>sourceSize</key>
-				<string>{130,86}</string>
+				<string>{91,25}</string>
 			</dict>
-			<key>res/CardGame/backjack/xibangold.png</key>
+			<key>res/CardGame/backjack/xetBaiPress.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{339,636},{99,45}}</string>
+				<string>{{318,398},{91,25}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
 				<false />
 				<key>sourceSize</key>
-				<string>{99,45}</string>
-			</dict>
-			<key>res/CardGame/backjack/xizach.png</key>
-			<dict>
-				<key>frame</key>
-				<string>{{222,883},{130,71}}</string>
-				<key>offset</key>
-				<string>{0,0}</string>
-				<key>rotated</key>
-				<false />
-				<key>sourceSize</key>
-				<string>{130,71}</string>
+				<string>{91,25}</string>
 			</dict>
 		</dict>
 		<key>metadata</key>
@@ -388,14 +201,14 @@
 			<key>realTextureFileName</key>
 			<string>PlistBackJack.png</string>
 			<key>size</key>
-			<string>{512,1024}</string>
+			<string>{512,512}</string>
 		</dict>
 		<key>texture</key>
 		<dict>
 			<key>width</key>
 			<integer>512</integer>
 			<key>height</key>
-			<integer>1024</integer>
+			<integer>512</integer>
 		</dict>
 	</dict>
 </plist>
