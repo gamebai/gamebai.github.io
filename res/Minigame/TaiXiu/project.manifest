@@ -1,0 +1,9 @@
+{
+    "packageUrl": "http://210.211.101.230/mobile/game/taixiu/res/Minigame/TaiXiu/",
+    "searchPaths": [],
+    "assets": "{}",
+    "remoteVersionUrl": "http://210.211.101.230/mobile/game/taixiu/res/Minigame/TaiXiu/version.manifest",
+    "version": "1.0.0",
+    "engineVersion": "3.12",
+    "remoteManifestUrl": "http://210.211.101.230/mobile/game/taixiu/res/Minigame/TaiXiu/project.manifest"
+}
